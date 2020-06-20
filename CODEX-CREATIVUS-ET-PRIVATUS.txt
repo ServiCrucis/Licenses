@@ -5,9 +5,11 @@ This license is governed by Codex Catholici Militiae Justitiae
 <https://github.com/MilitiaJustitiae/Licenses/blob/master/CODEX-CATHOLICI-MILITIAE-JUSTITIAE.txt>
 
 1. This Work is declared to be Private but publicly viewable.
-2. This Work may be copied, modified, distributed, or reproduced as a Private derivative Work for creative purposes.
-2a. This Work may be privately published.
-3. This Work may not be published as Public without Our explicit permission.
+2. Derivatives of this Work may be copied, modified, distributed, or reproduced as a Private derivative Work for creative purposes.
+2a. A Work is derivative if it is sustantially similar to the original Work, but differs in behavior, or is substantially
+    different from the original Work yet retains behaviors present in the original Work.
+2b. All derivatives must link, directly or indirectly, the complete text of Codex: Creativus et Privatus.
+3. This Work and its derivatives may not be published as Public without Our explicit permission.
 3a. To publish as Public means, and only means:
       i. to publish to a publicly accessible domain such as the World Wide Web.
       ii. to publish to the press or a newspaper.
