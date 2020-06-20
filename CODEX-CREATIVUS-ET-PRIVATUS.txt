@@ -1,5 +1,5 @@
-LA: Codex: Creativus sed Non Liberus
-EN: Code: Creative but Not Free
+LA: Codex: Creativus et Privatus
+EN: Code: Creative and Private
 
 This license is governed by Codex Catholici Militiae Justitiae
 <https://github.com/MilitiaJustitiae/Licenses/blob/master/CODEX-CATHOLICI-MILITIAE-JUSTITIAE.txt>
