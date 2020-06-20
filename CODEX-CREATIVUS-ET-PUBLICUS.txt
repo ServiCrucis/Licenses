@@ -1,0 +1,25 @@
+LA: Codex: Creativus et Publicus
+EN: Code: Creative and Public
+
+
+This license is governed by Codex Catholici Militiae Justitiae
+<https://github.com/MilitiaJustitiae/Licenses/blob/master/CODEX-CATHOLICI-MILITIAE-JUSTITIAE.txt>
+
+1. This Work is declared to be Public.
+2. Derivatives of this Work may be copied, modified, distributed, or reproduced as a derivative Public Work for creative purposes.
+2a. A Work is derivative if it is sustantially similar to the original Work, but differs in behavior, or is substantially
+    different from the original Work yet retains behaviors present in the original Work.
+2b. All derivatives must link, directly or indirectly, the complete text of Codex: Creativus et Publicus.
+3. This Work may be republished publicly or privately.
+3a. To publish as Public means, and only means:
+      i. to publish to a publicly accessible domain such as the World Wide Web.
+      ii. to publish to the press or a newspaper.
+      iii. to publish in a public, physical location, a direct or indirect reference to this Work.
+      iv. publishing as Public examples include, but are not limited to: social media; globally accessible servers located through URIs;
+3b. To publish privately means, and only means:
+      i. to publish on a privately accessible domain available through the internet but not visible to
+          the World Wide Web.
+      ii. to publish in a privately accessible, physical location.
+      iii. to publish via peer-to-peer private networking provided that the recipient of this Work agrees to follow this license.
+      iv. publishing as Private includes examples such as, but are not limited to: private peer-to-peer messaging; private group 
+      peer-to-peer messaging; LAN networks; private, remotely accessible servers; a private room; a private office; a private building.
