@@ -22,7 +22,7 @@ EN: Universal Code of Militia Justitiae
     considered thorouhgly and prudently, and a compromise
     be met according to the truth.
     
- 5. This License grants nor describes any warranty, but governs
+ 5. This License neither grants nor describes any warranty, but governs
     only what is permissible or not concerning any warranty
     in a Work that is governed by this License. Furthermore,
     if there is no other license mentioned explicitly besides
@@ -228,6 +228,11 @@ V. Rules of Warranty:
 		for any liabilities, and no other Power will be 
 		held liable; and will be subject to the rules
 		defined by Section 1 of Article V of this License.
+		
+	6. Unless otherwise explicitly mentioned, no Work or Works
+	        governed by this License provide any warranties or
+		guarantees of any kind, neither implicitly nor
+		explicitly.
 		
 VI. Implicit Agreement:
 
