@@ -1,18 +1,18 @@
 LA: Codex: Dominatio Publicus sub Leges
 EN: Code: Public Domain under the Law
 
-This license is governed by Codex Catholici Militiae Justitiae ("CCMJ")
-<https://github.com/MilitiaJustitiae/Licenses/blob/master/CODEX-CATHOLICI-MILITIAE-JUSTITIAE.txt>
+This license is governed by Codex Catholici Servi Regis ("CCSR")
+<https://github.com/ServiRegis/Licenses/blob/master/CODEX-CATHOLICI-MILITIAE-JUSTITIAE.txt>
 
 1. This Work is provided as Public Domain under the Law.
 1a. Public Domain under the Law means, and only means:
   i. This Work is Public.
-  ii. This Work is governed by God and His Laws as specified by Codex Catholici Militiae Justitiae.
+  ii. This Work is governed by God and His Laws as specified by Codex Catholici Servi Regis.
   iii. This Work is governed by any and all applicable and just civil laws.
 2. To anyone who obtains a copy of this Work:
   a. You are free to do with this Work as you please under the following and only contingencies:
     i. This Codex Dominatio Publicus sub Leges ("License") saliently precedes the Work which it governs, either with this complete text, or by direct link.
-    ii. The Work which is governed by this License may not be used, directly nor indirectly, to transgress the Law, divine or civil. (cf. CCMJ, Article II, section 4)
-  b. No warranties nor guarantees of any kind are provided, neither implicitly nor explicitly. (cf. CCMJ, Article V, section 6)
+    ii. The Work which is governed by this License may not be used, directly nor indirectly, to transgress the Law, divine or civil. (cf. CCSR, Article II, section 4)
+  b. No warranties nor guarantees of any kind are provided, neither implicitly nor explicitly. (cf. CCSR, Article V, section 6)
   c. No attribution is required to be given to any derivative Work or Works which may proceed from this Work except for resolving an issue or dispute
     which must be traced to a live entity.
