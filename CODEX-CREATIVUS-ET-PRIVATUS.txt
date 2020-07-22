@@ -1,8 +1,8 @@
 LA: Codex: Creativus et Privatus
 EN: Code: Creative and Private
 
-This license is governed by Codex Catholici Militiae Justitiae
-<https://github.com/MilitiaJustitiae/Licenses/blob/master/CODEX-CATHOLICI-MILITIAE-JUSTITIAE.txt>
+This license is governed by Codex Catholici Servi Regis
+<https://github.com/ServiRegis/Licenses/blob/master/CODEX-CATHOLICI-SERVI-REGIS.txt>
 
 1. This Work is declared to be Private but publicly viewable.
 2. Derivatives of this Work may be copied, modified, distributed, or reproduced as a Private derivative Work for creative purposes.
