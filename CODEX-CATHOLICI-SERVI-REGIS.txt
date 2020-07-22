@@ -1,5 +1,5 @@
-LA: Codex Catholici Militiae Justitiae 
-EN: Universal Code of Militia Justitiae
+LA: Codex Catholici Servi Regis 
+EN: Universal Code of Servi Regis
 
                            SUMMARY
  1. All Works governed by this License shall be used according
@@ -28,7 +28,7 @@ EN: Universal Code of Militia Justitiae
     if there is no other license mentioned explicitly besides
     this License, then the default license under the respective 
     category of Work found in the repository, 
-    <https://github.com/MilitiaJustitiae/Licenses>,
+    <https://github.com/ServiRegis/Licenses>,
     shall be the license for that Work unless that Work should
     adopt a specific license. 
 
@@ -67,7 +67,7 @@ I. Definitions:
 		<http://romancatholicinstitute.org/>.
 		
 	6. The pronouns, "I", "We", "Us", "Our" shall be defined as 
-		pronouns referring to the entity "Militia Justitiæ"
+		pronouns referring to the entity "Servi Regis"
 		(name change pending, currently named "Christi Crucifixi,
 		LLC"), acting on behalf of the Catholic
 		Church unofficially at this time.
@@ -111,7 +111,7 @@ I. Definitions:
 II. Provisions:
 
 	1. All Works under the jurisdiction of this license titled, 
-		"Codex Catholici Militiæ Justitiæ" ("License"), shall be subject to 
+		"Codex Catholici Servi Regis" ("License"), shall be subject to 
 		the Law.
 
 	2. This License is a Public Work.
