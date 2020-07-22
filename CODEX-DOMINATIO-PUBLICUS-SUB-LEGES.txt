@@ -2,7 +2,7 @@ LA: Codex: Dominatio Publicus sub Leges
 EN: Code: Public Domain under the Law
 
 This license is governed by Codex Catholici Servi Regis ("CCSR")
-<https://github.com/ServiRegis/Licenses/blob/master/CODEX-CATHOLICI-MILITIAE-JUSTITIAE.txt>
+<https://github.com/ServiRegis/Licenses/blob/master/CODEX-CATHOLICI-SERVI-REGIS.txt>
 
 1. This Work is provided as Public Domain under the Law.
 1a. Public Domain under the Law means, and only means:
