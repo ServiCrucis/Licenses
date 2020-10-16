@@ -149,15 +149,29 @@ III. Rules of Attribution:
 		    need for explicit attribution, and at minimum the first and last
 		    name ("Full Name") of every author of a Public Work must be
 		    present within the Work directly.
-			
-		b. All Private Works shall be implicitly attributed to God alone
-		    without need for explicit attribution.
 
+			
+		b. All Private Works shall be implicitly attributed to God without 
+		    need for explicit attribution, and at minimum the Full Name of
+		    every author of a Private Work must be present within the Work
+		    directly.
+		    
 		c. If any Work shall transgress the Law in any manner, it may
 		    not be attributed to God whatsoever according to any
 		    authority. All transgressions of the Law regarding any
 		    Work under this License shall be attributed to the
 		    appropriate Power(s).
+		    
+		d. At least one author or maintainer of a Work, followed by an
+		    email address succeeding the Full Name of the author or 
+		    maintainer, and which email address at least sends all 
+		    correspondence directly to the aforementioned author or
+		    maintainer, must be provided. Private Works which are not
+		    intended to be distributed, or for which a Work is not
+		    beyond a reasonable threshold of complexity in its
+		    machinery, are exempt from this requirement. In principle,
+		    simple Works made of a single contiguous piece such as
+		    silverware and apparel are within this threshold.
 		
 	2. All attributions shall enumerate the Works contained in a
 		Work by the person(s) justly according to the proportion 
