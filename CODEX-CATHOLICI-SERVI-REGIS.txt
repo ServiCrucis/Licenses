@@ -8,10 +8,12 @@ EN: Universal Code of Servi Regis
     to do so.
     
  2. No human being may use any Works governed by this License
-    to commit any moral evil, without exception, whatsoever 
+    to commit any scandal that would place his neighbor in a 
+    proximate occasion of sin, without exception, whatsoever 
     under any circumstances.
     ("Evil", moral evil, see par. 3
-    - <https://www.newadvent.org/cathen/05649a.htm>)
+    - <https://www.newadvent.org/cathen/05649a.htm>;
+    "Scandal")
      
  3. All Works governed by this License shall have proper
     attribution according to the terms of the License and
@@ -122,10 +124,11 @@ II. Provisions:
 	4. Under absolutely no circumstances may We, nor any person 
 		who has, or has not, attained to the the age of seven 
 		years since birth ("Age of Reason"), use any Works 
-		governed by this License as a Power to produce any moral 
-		evil. 
-    ("Evil", moral evil, see par. 3
-    - <https://www.newadvent.org/cathen/05649a.htm>)
+		governed by this License as a Power to produce any
+		scandal that would place his neighbor in a 
+    		proximate occasion of sin. 
+    	("Evil", moral evil, see par. 3
+    	- <https://www.newadvent.org/cathen/05649a.htm>)
 		
 	5. No unauthorized person may modify the contents of this
 		License, nor any copy or derivative of this License.
