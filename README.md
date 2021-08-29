@@ -1,2 +1,2 @@
 # Licenses
-All the licenses that Servi Regis uses for its projects. Includes compatibility licenses for interoperability with other licenses where applicable.
+A universal, CreativeCommons-like licensing scheme created for Servi Regis and affiliates. (child licenses not finalized)
